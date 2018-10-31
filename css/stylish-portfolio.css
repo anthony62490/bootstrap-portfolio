@@ -42,7 +42,7 @@ h6 {
 }
 
 .text-faded {
-  color: rgba(255, 255, 255, 0.7);
+  color: #ffffffb3;
 }
 
 /* Map */
@@ -333,8 +333,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-primary {
-  background-color: #1D809F !important;
-  border-color: #1D809F !important;
+  background-color: #E8C420 !important;
+  border-color: #E8C420 !important;
   color: #fff !important;
 }
 
